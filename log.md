@@ -11,3 +11,8 @@ be learned equally well as a *language* than as a mathematics. Good for non math
 Need to figure out what all this markdown shit means so I can write decent looking docu's. 
 
 **Link to work:** [Mah first Git Stuff](https://github.com/MoonSeenThroughTrees/hello-world)
+
+### Day 0: Suspended:
+
+**Just realized 100daysofCode requires you to do actual code so I will be postponing until I have 
+completed more of the basic tutorial stuff. Until then!
